@@ -94,6 +94,10 @@ jobs:
           # CONFIG_TARGET_x86_64_Generic=y
           # EOF
           
+          
+          
+          
+          
           # 编译p2w-r619ac固件:
           cat >> .config <<EOF
           CONFIG_TARGET_ipq40xx=y
